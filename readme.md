@@ -21,7 +21,6 @@
 - [Government and Civic Tech](#government-and-civic-tech)
 - [Events and Meetups](#events-and-meetups)
 - [Media and Content](#media-and-content)
-- [Developer Tools](#developer-tools)
 
 ## Open Source Projects
 
@@ -81,10 +80,6 @@
 ## Media and Content
 
 - [Radio Bahrain Podcasts](https://github.com/RadioBahrain/podcasts-distro) - Podcast distribution platform for إذاعة البحرين.
-
-## Developer Tools
-
-- [credimax-bahrain](https://github.com/yazinsai/credimax-bahrain) - Integration code for the CrediMax payment gateway in Bahrain.
 
 ## Contributing
 
