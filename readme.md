@@ -17,8 +17,10 @@
 - [APIs and Data](#apis-and-data)
 - [Startups and Tech Companies](#startups-and-tech-companies)
 - [Fintech](#fintech)
+- [Incubators and Accelerators](#incubators-and-accelerators)
 - [Education](#education)
 - [Government and Civic Tech](#government-and-civic-tech)
+- [Infrastructure](#infrastructure)
 - [Events and Meetups](#events-and-meetups)
 - [Media and Content](#media-and-content)
 
@@ -38,27 +40,44 @@
 - [Bahrain.js](https://bahrain.js.org) - JavaScript and web development community in Bahrain.
 - [GDG Manama](https://gdg.community.dev/gdg-manama/) - Google Developer Group for Bahrain.
 - [SEI Bahrain](https://github.com/orgs/SEI-08-Bahrain/repositories) - General Assembly Software Engineering Immersive cohort projects.
+- [Women Techmakers Bahrain](https://www.womentechmakers.com) - Community empowering women in technology through events and mentorship.
 
 ## APIs and Data
 
 - [bahrain-tech-resource](https://github.com/plusmnt/bahrain-tech-resource) - List of online services available for developers in Bahrain including payment, shipping, and data.
 - [MENA GeoJSON](https://github.com/wjdanalharthi/MENA_GeoJSON) - GeoJSON boundaries for MENA countries and their regions including Bahrain.
 - [bank-domains](https://github.com/karenyousefi/bank-domains) - Lists of bank domains for GCC countries including Bahrain.
-- [Bahrain Open Data Portal](https://www.data.gov.bh) - Official government open data portal.
+- [Bahrain Open Data Portal](https://www.data.gov.bh) - Official government open data portal with hundreds of datasets in CSV, JSON, and XML.
 
 ## Startups and Tech Companies
 
 - [Array Innovation](https://github.com/arrayinnovation) - Bahrain tech company contributing to open source projects including Grafana, Vitest, and Prettier.
-- [Rain](https://rain.bh) - Licensed cryptocurrency exchange based in Bahrain.
-- [Skiplino](https://www.skiplino.com) - Queue management and appointment booking platform.
 - [Calo](https://calo.app) - Healthy meal subscription service powered by technology.
-- [Tarabut Gateway](https://tarabutgateway.com) - Open banking platform regulated by the Central Bank of Bahrain.
+- [CTM360](https://ctm360.com) - Cybersecurity platform for external attack surface management and digital risk protection.
+- [Skiplino](https://www.skiplino.com) - Queue management and appointment booking platform.
+- [Faceki](https://faceki.com) - AI-powered biometric authentication and digital KYC platform.
+- [Worth AI](https://worthai.com) - AI-powered inclusive financial underwriting and credit risk assessment.
 
 ## Fintech
 
 - [Central Bank of Bahrain Sandbox](https://www.cbb.gov.bh/fintech/) - Regulatory sandbox for fintech innovation in Bahrain.
 - [Bahrain FinTech Bay](https://www.bahrainfintechbay.com) - Fintech hub and accelerator in the Kingdom of Bahrain.
 - [Benefit](https://www.benefit.bh) - National electronic payment services provider.
+- [Rain](https://rain.bh) - Licensed cryptocurrency exchange regulated by the Central Bank of Bahrain.
+- [CoinMENA](https://coinmena.com) - Regulated digital asset trading platform for the GCC region.
+- [Tarabut Gateway](https://tarabutgateway.com) - Open banking platform regulated by the Central Bank of Bahrain.
+- [SADAD](https://sadadbahrain.com) - Electronic payment channel provider for kiosks, online gateways, and mobile.
+- [EazyPay](https://eazy.bh) - Point-of-sale and e-payment gateway services across the region.
+- [Flooss](https://flooss.com) - Sharia-compliant digital instant financing and Buy Now Pay Later platform.
+- [Aion Digital](https://aiondigital.com) - API-powered digital banking platform enabling banks to go digital.
+
+## Incubators and Accelerators
+
+- [Flat6Labs Bahrain](https://flat6labs.com/location/bahrain/) - Seed funding and accelerator program for tech startups.
+- [Brinc Batelco IoT Hub](https://www.brinc.io) - Accelerator focused on IoT, AI, and hardware with prototyping labs.
+- [Hope Ventures](https://hopefund.bh) - Investment arm of the Hope Fund with a coworking space in Seef.
+- [Tenmou](https://tenmou.me) - Angel investor network and startup support community.
+- [EDB Bahrain](https://www.bahrainedb.com) - Economic Development Board promoting business and investment in Bahrain.
 
 ## Education
 
@@ -69,8 +88,15 @@
 
 ## Government and Civic Tech
 
+- [bahrain.bh](https://www.bahrain.bh) - Unified national portal providing access to over 900 government eServices.
 - [IGA Bahrain](https://github.com/IGA-BH) - Information and eGovernment Authority with public repositories.
 - [Tamkeen](https://tamkeen.bh) - Government entity supporting business growth, enterprise development, and workforce training in Bahrain.
+- [Tawasul](https://www.bahrain.bh/tawasul) - National suggestions and complaints system for government services.
+- [NSSA](https://nssa.gov.bh) - National Space Science Agency advancing space research and satellite development.
+
+## Infrastructure
+
+- [AWS Middle East (Bahrain) Region](https://aws.amazon.com/local/bahrain/) - Amazon Web Services cloud infrastructure region based in Bahrain.
 
 ## Events and Meetups
 
