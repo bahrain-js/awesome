@@ -96,11 +96,10 @@
 
 ## Infrastructure
 
-- [AWS Middle East (Bahrain) Region](https://aws.amazon.com/local/bahrain/) - Amazon Web Services cloud infrastructure region based in Bahrain.
+- [AWS Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/) - Amazon Web Services cloud infrastructure region based in Bahrain.
 
 ## Events and Meetups
 
-- [Bahrain.js Meetups](https://github.com/user/bahrain.js) - Regular JavaScript and web development meetups in Manama.
 - [Startup Bahrain](https://startupbahrain.com) - National platform connecting founders with resources, events, and community in Bahrain.
 
 ## Media and Content
