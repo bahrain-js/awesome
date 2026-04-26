@@ -54,6 +54,7 @@
 - [Skiplino](https://www.skiplino.com) - Queue management and appointment booking platform.
 - [Calo](https://calo.app) - Healthy meal subscription service powered by technology.
 - [Tarabut Gateway](https://tarabutgateway.com) - Open banking platform regulated by the Central Bank of Bahrain.
+- [Tamkeen](https://tamkeen.bh) - National labour fund supporting enterprise development and workforce training in Bahrain.
 
 ## Fintech
 
@@ -76,7 +77,6 @@
 
 - [Bahrain.js Meetups](https://github.com/user/bahrain.js) - Regular JavaScript and web development meetups in Manama.
 - [Startup Bahrain](https://startupbahrain.com) - National platform connecting founders with resources, events, and community in Bahrain.
-- [Startup Weekend Bahrain](https://www.techstars.com/communities/startup-weekend) - Techstars startup events in Bahrain.
 
 ## Media and Content
 
