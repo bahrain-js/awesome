@@ -40,7 +40,6 @@
 - [Bahrain.js](https://bahrain.js.org) - JavaScript and web development community in Bahrain.
 - [GDG Manama](https://gdg.community.dev/gdg-manama/) - Google Developer Group for Bahrain.
 - [SEI Bahrain](https://github.com/orgs/SEI-08-Bahrain/repositories) - General Assembly Software Engineering Immersive cohort projects.
-- [Women Techmakers Bahrain](https://www.womentechmakers.com) - Community empowering women in technology through events and mentorship.
 
 ## APIs and Data
 
